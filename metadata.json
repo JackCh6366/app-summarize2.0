@@ -1,0 +1,8 @@
+{
+  "name": "會議記錄小幫手2.0(word支援板)",
+  "description": "一個基於 AI 的會議記錄生成與翻譯工具，幫助使用者快速總結與翻譯會議內容。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
